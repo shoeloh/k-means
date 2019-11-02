@@ -19,7 +19,7 @@ in the format:
 (cluster-id) (List of points ids separated by comma)  
 
 For example,  
-1                2, 4, 7, 10  
+1\t 2, 4, 7, 10  
 
 Validation:  
 The usual method of evaluating the goodness of clustering is be used.  
